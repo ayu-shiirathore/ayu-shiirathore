@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayushi Rathore</h1>
 - I’m currently a student at Thapar Institute of Engineering and Technology pursuing B.E. in Computer Engineering.
 
-<img align="right" alt="Coding" width="400" src="https://blog.hubspot.com/hs-fs/hubfs/how-to-start-coding-1.jpg?width=595&height=400&name=how-to-start-coding-1.jpg">
-
-- 🌱 I’m currently learning **Data Science.**
 
 - 👨‍💻 All of my projects are available at [https://ayushis-portfolio.vercel.app/](https://ayushis-portfolio.vercel.app/)
 
